@@ -1,0 +1,347 @@
+Order ID,Order Date,Customer ID,Type,SKU,Category,Product Name,Unit Price,Qty,Total,Discount Code,Disc %,Payment,Source,City,State,Warehouse,Del Date,Status,Return?,Reason,Ret Rec,Refund
+UT-100001,2024-10-01,CUST_10001,New,TOP-CAS-M,Tops,Classic Cotton Tee,1299,2,2598,,0,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-10-05,Delivered,No,,,Not Applicable
+UT-100002,2024-10-01,CUST_10002,Returning,DRS-FRM-S,Dresses,Floral Midi Dress,2499,1,2499,DIWALI20,20,Credit Card,Mobile App,Delhi,Delhi,Delhi,2024-10-04,Delivered,Yes,Size Issue,2024-10-15,Processed
+UT-100003,2024-01-10,CUST_10003,new,BOT-JNS-L,Bottoms,Slim Fit Jeans,1899,1,1899,,0,COD,Website,Bangalore,Karnataka,Bangalore,2024-10-06,Delivered,No,,,Not Applicable
+UT-100004,2024-10-01,CUST_10004,New,OUT-JKT-XL,Outerwear,Denim Jacket,3499,1,3499,FIRST15,15,Debit Card,Instagram Shop,Chennai,Tamil Nadu,Mumbai,2024-10-08,Delivered,Yes,Quality Defect,2024-10-20,Processed
+UT-100005,2024-10-01,CUST_10001,New,ACC-SCF-OS,Accessories,Silk Scarf,799,3,2397,,0,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-10-06,Delivered,No,,,Not Applicable
+UT-100006,2024-10-02,CUST_10005,Returning,TOP-FRM-S,Tops,Printed Blouse,1599,2,3198,,0,Credit Card,Mobile App,Hyderabad,Telangana,Bangalore,2024-10-07,Delivered,Yes,Changed Mind,2024-10-18,Processed
+UT-100007,2024-10-02,CUST_10006,New,DRS-CAS-M,Dresses,A-Line Dress,2199,1,2199,DIWALI20,20,COD,Website,Pune,Maharashtra,Mumbai,,Cancelled,No,,,Not Applicable
+UT-100008,2024-10-02,CUST_10007,New,BOT-TRS-L,Bottoms,Formal Trousers,2299,1,2299,,0,UPI,Mobile App,Kolkata,West Bengal,Delhi,2024-10-10,Delivered,No,,,Not Applicable
+UT-100009,2024-10-02,CUST_10008,Returning,TOP-CAS-XL,Tops,Oversized Tee,1399,5,6995,,0,Credit Card,Website,Ahmedabad,Gujarat,Mumbai,2024-10-09,Delivered,Yes,Size Issue,2024-10-22,Processed
+UT-100010,2024-10-02,CUST_10009,New,OUT-BLZ-M,Outerwear,Casual Blazer,4999,-1,4999,,0,Debit Card,Instagram Shop,Jaipur,Rajasthan,Delhi,2024-10-11,Delivered,Yes,Wrong Item,2024-10-25,Pending
+UT-100011,2024-10-03,CUST_10010,New,ACC-BAG-OS,Accessories,Tote Bag,1299,2,2598,FLAT10,10,Wallet,Website,Lucknow,Uttar Pradesh,Delhi,2024-10-10,Delivered,No,,,Not Applicable
+UT-100012,2024-10-03,CUST_10011,New,DRS-PRT-S,Dresses,Party Dress,3299,1,3299,,0,COD,Mobile App,Chandigarh,Punjab,Delhi,,RTO,No,,,Not Applicable
+UT-100013,2024-10-03,CUST_10012,Returning,TOP-SLK-M,Tops,Silk Blouse,2499,1,2499,,0,Credit Card,Website,Mumbai,Maharashtra,Mumbai,2024-10-09,Delivered,No,,,Not Applicable
+UT-100014,2024-10-03,CUST_10013,New,BOT-SKT-S,Bottoms,Pleated Skirt,1799,2,3598,DIWALI20,20,UPI,Instagram Shop,Delhi,Delhi,Delhi,2024-10-11,Delivered,Yes,Size Issue,2024-10-28,Processed
+UT-100015,2024-10-03,CUST_10014,New,OUT-CRD-L,Outerwear,Knit Cardigan,2799,1,2799,,0,Debit Card,Mobile App,Bangalore,Karnataka,Bangalore,2024-10-12,Delivered,No,,,Not Applicable
+UT-100016,2024-10-04,CUST_10015,Returning,ACC-JWL-OS,Accessories,Statement Earrings,599,4,2396,,0,COD,Website,Noida,Uttar Pradesh,Delhi,2024-10-14,Delivered,Yes,Damaged in Transit,2024-10-26,Processed
+UT-100017,2024-10-04,CUST_10016,New,TOP-CRP-XS,Tops,Crop Top,999,1,999,FIRST15,15,UPI,Mobile App,Gurgaon,Haryana,Delhi,2024-10-12,Delievered,No,,,Not Applicable
+UT-100018,2024-10-04,CUST_10017,New,DRS-MAX-M,Dresses,Maxi Dress,2899,1,2899,,0,Credit Card,Website,Indore,Madhya Pradesh,Mumbai,2024-10-14,Delivered,No,,,Not Applicable
+UT-100019,2024-10-04,CUST_10018,Returning,BOT-JGR-M,Bottoms,Joggers,1499,2,2998,,0,Wallet,Instagram Shop,Surat,Gujarat,Mumbai,2024-10-13,Delivered,Yes,Size Issue,2024-10-30,Processed
+UT-100020,2024-10-05,CUST_10019,New,OUT-VST-S,Outerwear,Puffer Vest,3999,1,3999,DIWALI20,20,COD,Website,Patna,Bihar,Delhi,,RTO,No,,,Not Applicable
+UT-100021,2024-10-05,CUST_10020,New,TOP-TUN-L,Tops,Tunic Top,1699,1,1699,,0,UPI,Mobile App,Bhopal,Madhya Pradesh,Mumbai,2024-10-15,Delivered,No,,,Not Applicable
+UT-100022,2024-10-05,CUST_10021,Returning,DRS-SHT-XS,Dresses,Shirt Dress,2399,1,2399,,0,Credit Card,Website,Nagpur,Maharashtra,Mumbai,2024-10-16,Delivered,Yes,Quality Defect,2024-11-02,Processed
+UT-100023,2024-10-05,CUST_10022,New,ACC-BLT-M,Accessories,Leather Belt,899,1,899,FLAT10,10,Debit Card,Mobile App,Coimbatore,Tamil Nadu,Bangalore,2024-10-17,Delivered,No,,,Not Applicable
+UT-100024,2024-10-06,CUST_10023,New,BOT-SHT-M,Bottoms,Cotton Shorts,1199,3,3597,,0,COD,Instagram Shop,Kochi,Kerala,Bangalore,2024-10-18,Delivered,Yes,Changed Mind,2024-11-05,Processed
+UT-100025,2024-10-06,CUST_10024,New,TOP-PLO-L,Tops,Polo Shirt,1799,2,3598,,0,UPI,Website,Vizag,Andhra Pradesh,Bangalore,2024-10-17,Delivered,No,,,Not Applicable
+UT-100026,2024-10-06,CUST_10025,New,DRS-WRK-M,Dresses,Work Dress,2699,1,2699,,0,Credit Card,Mobile App,Thiruvananthapuram,Kerala,Bangalore,2024-10-18,Delivered,No,,,Not Applicable
+UT-100027,2024-10-06,CUST_10026,Returning,OUT-TRN-L,Outerwear,Trench Coat,4599,1,4599,FLAT10,10,Debit Card,Website,Mysore,Karnataka,Bangalore,2024-10-19,Delivered,Yes,Size Issue,2024-11-08,Processed
+UT-100028,2024-10-07,CUST_10027,New,ACC-HAT-OS,Accessories,Fedora Hat,1099,1,1099,,0,UPI,Instagram Shop,Vadodara,Gujarat,Mumbai,2024-10-20,Delivered,No,,,Not Applicable
+UT-100029,2024-10-07,CUST_10028,New,TOP-DNM-M,Tops,Denim Shirt,1899,1,1899,,0,COD,Mobile App,Rajkot,Gujarat,Mumbai,,RTO,No,,,Not Applicable
+UT-100030,2024-10-07,CUST_10029,New,BOT-CRG-L,Bottoms,Cargo Pants,2199,1,2199,DIWALI20,20,Credit Card,Website,Kanpur,Uttar Pradesh,Delhi,2024-10-20,Delivered,No,,,Not Applicable
+UT-100031,2024-10-07,CUST_10030,Returning,DRS-EVE-S,Dresses,Evening Gown,5499,1,5499,,0,Credit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2024-10-21,Delivered,Yes,Size Issue,2024-11-10,Processed
+UT-100032,2024-10-08,CUST_10031,New,TOP-BAS-M,Tops,Basic Tank,899,2,1798,,0,UPI,Website,Delhi,Delhi,Delhi,2024-10-14,Delivered,No,,,Not Applicable
+UT-100033,2024-10-08,CUST_10032,New,OUT-WOL-L,Outerwear,Wool Coat,6999,1,6999,FIRST15,15,Debit Card,Instagram Shop,Kolkata,West Bengal,Delhi,2024-10-16,Delivered,Yes,Quality Defect,2024-11-05,Processed
+UT-100034,2024-10-08,CUST_10033,Returning,ACC-WCH-OS,Accessories,Fashion Watch,2999,1,2999,,0,Credit Card,Mobile App,Chennai,Tamil Nadu,Bangalore,2024-10-15,Delivered,No,,,Not Applicable
+UT-100035,2024-10-08,CUST_10034,New,BOT-DNM-S,Bottoms,Denim Shorts,1599,1,1599,,0,COD,Website,Hyderabad,Telangana,Bangalore,2024-10-17,Delivered,Yes,Size Issue,2024-11-08,Processed
+UT-100036,2024-10-09,CUST_10035,New,DRS-SUN-M,Dresses,Sundress,1999,1,1999,DIWALI20,20,Wallet,Mobile App,Pune,Maharashtra,Mumbai,2024-10-16,Delivered,No,,,Not Applicable
+UT-100037,2024-10-09,CUST_10036,New,TOP-RFL-S,Tops,Ruffle Top,1799,1,1799,,0,UPI,Instagram Shop,Ahmedabad,Gujarat,Mumbai,2024-10-17,Delivered,Yes,Changed Mind,2024-11-12,Processed
+UT-100038,2024-10-09,CUST_10037,Returning,OUT-LTH-M,Outerwear,Leather Jacket,7999,1,7999,,0,Credit Card,Website,Jaipur,Rajasthan,Delhi,2024-10-18,Delivered,No,,,Not Applicable
+UT-100039,2024-10-09,CUST_10038,New,ACC-SNG-OS,Accessories,Sunglasses,1499,1,1499,FLAT10,10,Debit Card,Mobile App,Lucknow,Uttar Pradesh,Delhi,2024-10-17,Delivered,No,,,Not Applicable
+UT-100040,2024-10-10,CUST_10039,New,BOT-PLZ-L,Bottoms,Palazzo Pants,1699,1,1699,,0,COD,Website,Bangalore,Karnataka,Bangalore,2024-10-19,Delivered,Yes,Size Issue,2024-11-10,Processed
+UT-100041,2024-10-10,CUST_10040,New,DRS-BDC-S,Dresses,Bodycon Dress,2299,1,2299,,0,UPI,Instagram Shop,Mumbai,Maharashtra,Mumbai,2024-10-18,Delivered,No,,,Not Applicable
+UT-100042,2024-10-10,CUST_10041,Returning,TOP-OFF-M,Tops,Off-Shoulder Top,1599,2,3198,DIWALI20,20,Credit Card,Mobile App,Delhi,Delhi,Delhi,2024-10-17,Delivered,Yes,Wrong Item,2024-11-08,Processed
+UT-100043,2024-10-10,CUST_10042,New,OUT-DNM-L,Outerwear,Denim Vest,2499,1,2499,,0,Wallet,Website,Chandigarh,Punjab,Delhi,2024-10-20,Delivered,No,,,Not Applicable
+UT-100044,2024-10-11,CUST_10043,New,ACC-HBG-OS,Accessories,Hobo Bag,1899,1,1899,,0,Debit Card,Instagram Shop,Noida,Uttar Pradesh,Delhi,2024-10-21,Delivered,Yes,Damaged in Transit,2024-11-12,Processed
+UT-100045,2024-10-11,CUST_10044,New,BOT-CHP-M,Bottoms,Chino Pants,1999,1,1999,FIRST15,15,UPI,Mobile App,Gurgaon,Haryana,Delhi,2024-10-19,Delivered,No,,,Not Applicable
+UT-100046,2024-10-11,CUST_10045,Returning,DRS-WRP-M,Dresses,Wrap Dress,2599,1,2599,,0,Credit Card,Website,Indore,Madhya Pradesh,Mumbai,2024-10-20,Delivered,No,,,Not Applicable
+UT-100047,2024-10-11,CUST_10046,New,TOP-STR-S,Tops,Striped Tee,1299,1,1299,,0,COD,Instagram Shop,Surat,Gujarat,Mumbai,,RTO,No,,,Not Applicable
+UT-100048,2024-10-12,CUST_10047,New,OUT-PRK-XL,Outerwear,Parka Jacket,5999,1,5999,DIWALI20,20,Credit Card,Mobile App,Patna,Bihar,Delhi,2024-10-22,Delivered,Yes,Size Issue,2024-11-15,Processed
+UT-100049,2024-10-12,CUST_10048,New,ACC-EAR-OS,Accessories,Hoop Earrings,799,2,1598,,0,UPI,Website,Bhopal,Madhya Pradesh,Mumbai,2024-10-20,Delivered,No,,,Not Applicable
+UT-100050,2024-10-12,CUST_10049,Returning,BOT-LGN-S,Bottoms,Leggings,999,2,1998,,0,Wallet,Mobile App,Nagpur,Maharashtra,Mumbai,2024-10-19,Delivered,No,,,Not Applicable
+UT-100051,2024-10-12,CUST_10050,New,DRS-CTN-L,Dresses,Cotton Dress,1899,1,1899,,0,Debit Card,Instagram Shop,Coimbatore,Tamil Nadu,Bangalore,2024-10-22,Delivered,Yes,Quality Defect,2024-11-14,Processed
+UT-100052,2024-10-13,CUST_10051,New,TOP-LCE-M,Tops,Lace Top,1699,1,1699,FLAT10,10,Credit Card,Website,Kochi,Kerala,Bangalore,2024-10-21,Delivered,No,,,Not Applicable
+UT-100053,2024-10-13,CUST_10052,New,OUT-BOM-M,Outerwear,Bomber Jacket,3799,1,3799,,0,UPI,Mobile App,Vizag,Andhra Pradesh,Bangalore,2024-10-23,Delivered,Yes,Size Issue,2024-11-18,Processed
+UT-100054,2024-10-13,CUST_10053,Returning,ACC-NCK-OS,Accessories,Pendant Necklace,1299,1,1299,,0,COD,Instagram Shop,Thiruvananthapuram,Kerala,Bangalore,2024-10-22,Delivered,No,,,Not Applicable
+UT-100055,2024-10-13,CUST_10054,New,BOT-WID-M,Bottoms,Wide Leg Pants,2099,1,2099,DIWALI20,20,Credit Card,Website,Mysore,Karnataka,Bangalore,2024-10-24,Delivered,No,,,Not Applicable
+UT-100056,2024-10-14,CUST_10055,New,DRS-TIR-S,Dresses,Tiered Dress,2799,1,2799,,0,Debit Card,Mobile App,Vadodara,Gujarat,Mumbai,2024-10-23,Delivered,Yes,Changed Mind,2024-11-16,Processed
+UT-100057,2024-10-14,CUST_10056,New,TOP-PEP-M,Tops,Peplum Top,1499,1,1499,,0,Wallet,Website,Rajkot,Gujarat,Mumbai,2024-10-22,Delivered,No,,,Not Applicable
+UT-100058,2024-10-14,CUST_10057,Returning,OUT-QTD-L,Outerwear,Quilted Jacket,4499,1,4499,FIRST15,15,UPI,Instagram Shop,Kanpur,Uttar Pradesh,Delhi,2024-10-25,Delivered,Yes,Wrong Item,2024-11-20,Processed
+UT-100059,2024-10-14,CUST_10058,New,ACC-BRC-OS,Accessories,Charm Bracelet,899,1,899,,0,Credit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2024-10-23,Delivered,No,,,Not Applicable
+UT-100060,2024-10-15,CUST_10059,New,BOT-CRP-S,Bottoms,Cropped Pants,1799,1,1799,,0,COD,Website,Delhi,Delhi,Delhi,,RTO,No,,,Not Applicable
+UT-100061,2024-10-15,CUST_10060,New,DRS-SLP-M,Dresses,Slip Dress,2199,1,2199,DIWALI20,20,Debit Card,Instagram Shop,Kolkata,West Bengal,Delhi,2024-10-26,Delivered,Yes,Size Issue,2024-11-22,Processed
+UT-100062,2024-10-15,CUST_10061,Returning,TOP-HLT-L,Tops,Halter Top,1399,1,1399,,0,UPI,Mobile App,Chennai,Tamil Nadu,Bangalore,2024-10-24,Delivered,No,,,Not Applicable
+UT-100063,2024-10-15,CUST_10062,New,OUT-FLC-M,Outerwear,Fleece Jacket,2999,1,2999,,0,Credit Card,Website,Hyderabad,Telangana,Bangalore,2024-10-27,Delivered,Yes,Quality Defect,2024-11-24,Processed
+UT-100064,2024-10-16,CUST_10063,New,ACC-RNG-OS,Accessories,Cocktail Ring,699,2,1398,FLAT10,10,Wallet,Instagram Shop,Pune,Maharashtra,Mumbai,2024-10-25,Delivered,No,,,Not Applicable
+UT-100065,2024-10-16,CUST_10064,New,BOT-SKN-M,Bottoms,Skinny Jeans,2199,1,2199,,0,COD,Mobile App,Ahmedabad,Gujarat,Mumbai,2024-10-28,Delivered,Yes,Size Issue,2024-11-25,Processed
+UT-100066,2024-10-16,CUST_10065,Returning,DRS-KNT-S,Dresses,Knit Dress,2499,1,2499,,0,Credit Card,Website,Jaipur,Rajasthan,Delhi,2024-10-26,Delivered,No,,,Not Applicable
+UT-100067,2024-10-16,CUST_10066,New,TOP-EMB-M,Tops,Embroidered Top,1899,1,1899,DIWALI20,20,UPI,Instagram Shop,Lucknow,Uttar Pradesh,Delhi,2024-10-27,Delivered,Yes,Changed Mind,2024-11-20,Processed
+UT-100068,2024-10-17,CUST_10067,New,OUT-SHR-L,Outerwear,Shrug,1299,1,1299,,0,Debit Card,Mobile App,Bangalore,Karnataka,Bangalore,2024-10-28,Delivered,No,,,Not Applicable
+UT-100069,2024-10-17,CUST_10068,New,ACC-CLT-OS,Accessories,Clutch Bag,1599,1,1599,,0,Credit Card,Website,Mumbai,Maharashtra,Mumbai,2024-10-27,Delivered,Yes,Damaged in Transit,2024-11-22,Processed
+UT-100070,2024-10-17,CUST_10069,Returning,BOT-FLR-S,Bottoms,Flared Jeans,2099,1,2099,FIRST15,15,UPI,Instagram Shop,Delhi,Delhi,Delhi,2024-10-29,Delivered,No,,,Not Applicable
+UT-100071,2024-10-17,CUST_10070,New,DRS-PIN-M,Dresses,Pinafore Dress,2299,1,2299,,0,COD,Mobile App,Chandigarh,Punjab,Delhi,,RTO,No,,,Not Applicable
+UT-100072,2024-10-18,CUST_10071,New,TOP-CRW-L,Tops,Crew Neck Tee,1199,2,2398,,0,Wallet,Website,Noida,Uttar Pradesh,Delhi,2024-10-28,Delivered,No,,,Not Applicable
+UT-100073,2024-10-18,CUST_10072,New,OUT-CDG-M,Outerwear,Cardigan,2599,1,2599,DIWALI20,20,Credit Card,Instagram Shop,Gurgaon,Haryana,Delhi,2024-10-30,Delivered,Yes,Size Issue,2024-11-26,Processed
+UT-100074,2024-10-18,CUST_10073,Returning,ACC-SCR-OS,Accessories,Hair Scrunchie,299,5,1495,,0,UPI,Mobile App,Indore,Madhya Pradesh,Mumbai,2024-10-27,Delivered,No,,,Not Applicable
+UT-100075,2024-10-18,CUST_10074,New,BOT-PPR-M,Bottoms,Paper Bag Pants,1899,1,1899,,0,Debit Card,Website,Surat,Gujarat,Mumbai,2024-10-30,Delivered,Yes,Wrong Item,2024-11-28,Processed
+UT-100076,2024-10-19,CUST_10075,New,DRS-SMK-S,Dresses,Smocked Dress,2199,1,2199,,0,Credit Card,Instagram Shop,Patna,Bihar,Delhi,2024-10-31,Delivered,No,,,Not Applicable
+UT-100077,2024-10-19,CUST_10076,New,TOP-BTN-M,Tops,Button-Down Shirt,1799,1,1799,FLAT10,10,COD,Mobile App,Bhopal,Madhya Pradesh,Mumbai,2024-10-29,Delivered,Yes,Quality Defect,2024-11-25,Processed
+UT-100078,2024-10-19,CUST_10077,Returning,OUT-VLV-L,Outerwear,Velvet Blazer,4999,1,4999,,0,UPI,Website,Nagpur,Maharashtra,Mumbai,2024-11-01,Delivered,No,,,Not Applicable
+UT-100079,2024-10-19,CUST_10078,New,ACC-TOT-OS,Accessories,Canvas Tote,999,1,999,,0,Wallet,Instagram Shop,Coimbatore,Tamil Nadu,Bangalore,2024-10-30,Delivered,Yes,Size Issue,2024-11-28,Processed
+UT-100080,2024-10-20,CUST_10079,New,BOT-CRG-S,Bottoms,Cargo Shorts,1499,1,1499,DIWALI20,20,Credit Card,Mobile App,Kochi,Kerala,Bangalore,2024-10-31,Delivered,No,,,Not Applicable
+UT-100081,2024-10-20,CUST_10080,New,DRS-BTR-M,Dresses,Butterfly Dress,2899,1,2899,,0,Debit Card,Website,Vizag,Andhra Pradesh,Bangalore,2024-11-02,Delivered,Yes,Changed Mind,2024-11-30,Processed
+UT-100082,2024-10-20,CUST_10081,Returning,TOP-VNK-L,Tops,V-Neck Tee,1099,2,2198,,0,UPI,Instagram Shop,Thiruvananthapuram,Kerala,Bangalore,2024-10-30,Delivered,No,,,Not Applicable
+UT-100083,2024-10-20,CUST_10082,New,OUT-TRN-M,Outerwear,Trench Coat,5499,1,5499,FIRST15,15,Credit Card,Mobile App,Mysore,Karnataka,Bangalore,2024-11-03,Delivered,Yes,Size Issue,2024-12-01,Processed
+UT-100084,2024-10-21,CUST_10083,New,ACC-BDY-OS,Accessories,Body Chain,799,1,799,,0,COD,Website,Vadodara,Gujarat,Mumbai,,RTO,No,,,Not Applicable
+UT-100085,2024-10-21,CUST_10084,New,BOT-JGR-L,Bottoms,Jogger Pants,1599,1,1599,,0,Wallet,Instagram Shop,Rajkot,Gujarat,Mumbai,2024-11-02,Delivered,No,,,Not Applicable
+UT-100086,2024-10-21,CUST_10085,Returning,DRS-RFL-S,Dresses,Ruffle Dress,2699,1,2699,DIWALI20,20,Credit Card,Mobile App,Kanpur,Uttar Pradesh,Delhi,2024-11-01,Delivered,Yes,Quality Defect,2024-11-30,Processed
+UT-100087,2024-10-21,CUST_10086,New,TOP-SQR-M,Tops,Square Neck Top,1499,1,1499,,0,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-11-02,Delivered,No,,,Not Applicable
+UT-100088,2024-10-22,CUST_10087,New,OUT-WND-L,Outerwear,Windbreaker,3299,1,3299,,0,Debit Card,Instagram Shop,Delhi,Delhi,Delhi,2024-11-04,Delivered,Yes,Wrong Item,2024-12-03,Processed
+UT-100089,2024-10-22,CUST_10088,New,ACC-ANK-OS,Accessories,Anklet,499,2,998,FLAT10,10,Credit Card,Mobile App,Kolkata,West Bengal,Delhi,2024-11-01,Delivered,No,,,Not Applicable
+UT-100090,2024-10-22,CUST_10089,Returning,BOT-TRS-M,Bottoms,Tailored Trousers,2399,1,2399,,0,UPI,Website,Chennai,Tamil Nadu,Bangalore,2024-11-03,Delivered,No,,,Not Applicable
+UT-100091,2024-10-22,CUST_10090,New,DRS-LST-M,Dresses,Lace Trim Dress,2599,1,2599,,0,COD,Instagram Shop,Hyderabad,Telangana,Bangalore,,RTO,No,,,Not Applicable
+UT-100092,2024-10-23,CUST_10091,New,TOP-TIE-S,Tops,Tie-Front Top,1399,1,1399,DIWALI20,20,Wallet,Mobile App,Pune,Maharashtra,Mumbai,2024-11-03,Delivered,Yes,Size Issue,2024-12-02,Processed
+UT-100093,2024-10-23,CUST_10092,New,OUT-PUF-M,Outerwear,Puffer Jacket,4299,1,4299,,0,Credit Card,Website,Ahmedabad,Gujarat,Mumbai,2024-11-05,Delivered,No,,,Not Applicable
+UT-100094,2024-10-23,CUST_10093,Returning,ACC-HDR-OS,Accessories,Hairband,399,3,1197,,0,UPI,Instagram Shop,Jaipur,Rajasthan,Delhi,2024-11-02,Delivered,No,,,Not Applicable
+UT-100095,2024-10-23,CUST_10094,New,BOT-PLT-L,Bottoms,Pleated Trousers,2199,1,2199,FIRST15,15,Debit Card,Mobile App,Lucknow,Uttar Pradesh,Delhi,2024-11-05,Delivered,Yes,Damaged in Transit,2024-12-05,Processed
+UT-100096,2024-10-24,CUST_10095,New,DRS-SHR-S,Dresses,Shirtdress,2399,1,2399,,0,Credit Card,Website,Bangalore,Karnataka,Bangalore,2024-11-04,Delivered,No,,,Not Applicable
+UT-100097,2024-10-24,CUST_10096,New,TOP-GRF-M,Tops,Graphic Tee,1299,1,1299,,0,COD,Instagram Shop,Mumbai,Maharashtra,Mumbai,2024-11-06,Delivered,Yes,Changed Mind,2024-12-05,Processed
+UT-100098,2024-10-24,CUST_10097,Returning,OUT-SHW-L,Outerwear,Shawl Wrap,2799,1,2799,DIWALI20,20,UPI,Mobile App,Delhi,Delhi,Delhi,2024-11-05,Delivered,No,,,Not Applicable
+UT-100099,2024-10-24,CUST_10098,New,ACC-BLT-S,Accessories,Braided Belt,699,1,699,,0,Wallet,Website,Chandigarh,Punjab,Delhi,2024-11-04,Delivered,No,,,Not Applicable
+UT-100100,2024-10-25,CUST_10099,New,BOT-CUT-M,Bottoms,Culottes,1699,1,1699,,0,Debit Card,Instagram Shop,Noida,Uttar Pradesh,Delhi,2024-11-07,Delivered,Yes,Size Issue,2024-12-06,Processed
+UT-100101,2024-10-25,CUST_10100,New,DRS-MXI-L,Dresses,Maxi Dress,2799,1,2799,FLAT10,10,Credit Card,Mobile App,Gurgaon,Haryana,Delhi,2024-11-06,Delivered,No,,,Not Applicable
+UT-100102,2024-10-25,CUST_10101,Returning,TOP-SLV-S,Tops,Sleeveless Top,1199,2,2398,,0,UPI,Website,Indore,Madhya Pradesh,Mumbai,2024-11-05,Delivered,Yes,Quality Defect,2024-12-04,Processed
+UT-100103,2024-10-25,CUST_10102,New,OUT-CPE-M,Outerwear,Cape Coat,5999,1,5999,,0,Credit Card,Instagram Shop,Surat,Gujarat,Mumbai,2024-11-08,Delivered,No,,,Not Applicable
+UT-100104,2024-10-26,CUST_10103,New,ACC-SHD-OS,Accessories,Shoulder Bag,1799,1,1799,DIWALI20,20,COD,Mobile App,Patna,Bihar,Delhi,,RTO,No,,,Not Applicable
+UT-100105,2024-10-26,CUST_10104,New,BOT-STR-L,Bottoms,Straight Pants,1999,1,1999,,0,Wallet,Website,Bhopal,Madhya Pradesh,Mumbai,2024-11-07,Delivered,Yes,Wrong Item,2024-12-07,Processed
+UT-100106,2024-10-26,CUST_10105,Returning,DRS-FIT-S,Dresses,Fit & Flare Dress,2499,1,2499,,0,Debit Card,Instagram Shop,Nagpur,Maharashtra,Mumbai,2024-11-08,Delivered,No,,,Not Applicable
+UT-100107,2024-10-26,CUST_10106,New,TOP-CWL-M,Tops,Cowl Neck Top,1599,1,1599,FIRST15,15,UPI,Mobile App,Coimbatore,Tamil Nadu,Bangalore,2024-11-06,Delivered,Yes,Size Issue,2024-12-05,Processed
+UT-100108,2024-10-27,CUST_10107,New,OUT-BLR-L,Outerwear,Blazer,3999,1,3999,,0,Credit Card,Website,Kochi,Kerala,Bangalore,2024-11-09,Delivered,No,,,Not Applicable
+UT-100109,2024-10-27,CUST_10108,New,ACC-CFF-OS,Accessories,Cuff Bracelet,599,2,1198,,0,COD,Instagram Shop,Vizag,Andhra Pradesh,Bangalore,2024-11-07,Delivered,Yes,Damaged in Transit,2024-12-06,Processed
+UT-100110,2024-10-27,CUST_10109,Returning,BOT-HRM-M,Bottoms,Harem Pants,1799,1,1799,DIWALI20,20,UPI,Mobile App,Thiruvananthapuram,Kerala,Bangalore,2024-11-08,Delivered,No,,,Not Applicable
+UT-100111,2024-10-28,CUST_10110,New,DRS-FES-M,Dresses,Festive Kurta Set,3499,1,3499,DIWALI40,40,Credit Card,Website,Delhi,Delhi,Delhi,2024-11-02,Delivered,Yes,Size Issue,2024-11-18,Processed
+UT-100112,2024-10-28,CUST_10111,New,OUT-ETH-L,Outerwear,Embroidered Jacket,5999,1,5999,DIWALI40,40,COD,Mobile App,Mumbai,Maharashtra,Mumbai,2024-11-03,Delivered,Yes,Wrong Item,2024-11-20,Processed
+UT-100113,2024-10-28,CUST_10112,New,TOP-FES-S,Tops,Festive Blouse,2299,2,4598,DIWALI40,40,UPI,Instagram Shop,Jaipur,Rajasthan,Delhi,2024-11-04,Delivered,Yes,Size Issue,2024-11-22,Processed
+UT-100114,2024-10-28,CUST_10113,Returning,ACC-CLT-OS,Accessories,Festive Clutch,1599,1,1599,DIWALI40,40,Credit Card,Website,Lucknow,Uttar Pradesh,Delhi,2024-11-03,Delivered,No,,,Not Applicable
+UT-100115,2024-10-28,CUST_10114,New,BOT-ETH-M,Bottoms,Palazzo Pants,1899,1,1899,DIWALI40,40,COD,Mobile App,Chennai,Tamil Nadu,Bangalore,,RTO,No,,,Not Applicable
+UT-100116,2024-10-29,CUST_10115,New,DRS-ANK-S,Dresses,Anarkali Dress,4299,1,4299,DIWALI40,40,Debit Card,Website,Hyderabad,Telangana,Bangalore,2024-11-05,Delivered,Yes,Quality Defect,2024-11-25,Processed
+UT-100117,2024-10-29,CUST_10116,New,TOP-ETH-M,Tops,Embroidered Kurti,2599,1,2599,DIWALI40,40,UPI,Instagram Shop,Pune,Maharashtra,Mumbai,2024-11-06,Delivered,Yes,Changed Mind,2024-11-28,Pending
+UT-100118,2024-10-29,CUST_10117,New,OUT-SHW-L,Outerwear,Pashmina Shawl,3999,1,3999,DIWALI40,40,Credit Card,Mobile App,Amritsar,Punjab,Delhi,2024-11-07,Delivered,Yes,Size Issue,2024-12-01,Processed
+UT-100119,2024-10-29,CUST_10118,Returning,DRS-LHG-M,Dresses,Lehenga Set,8999,1,8999,DIWALI40,40,Credit Card,Website,Ahmedabad,Gujarat,Mumbai,2024-11-06,Delivered,Yes,Size Issue,2024-12-02,Processed
+UT-100120,2024-10-29,CUST_10119,New,ACC-STL-OS,Accessories,Statement Necklace,1299,2,2598,DIWALI40,40,COD,Instagram Shop,Kolkata,West Bengal,Delhi,2024-11-08,Delivered,Yes,Damaged in Transit,2024-11-30,Processed
+UT-100121,2024-10-29,CUST_10120,New,TOP-SQN-S,Tops,Sequin Top,1999,1,1999,DIWALI40,40,UPI,Mobile App,Bangalore,Karnataka,Bangalore,2024-11-07,Delivered,Yes,Quality Defect,2024-12-03,Processed
+UT-100122,2024-10-30,CUST_10121,New,BOT-LHG-S,Bottoms,Lehenga Skirt,5499,1,5499,DIWALI40,40,Wallet,Website,Surat,Gujarat,Mumbai,2024-11-08,Delivered,Yes,Size Issue,2024-12-01,Processed
+UT-100123,2024-10-30,CUST_10122,New,DRS-SAR-M,Dresses,Saree Gown,6999,1,6999,DIWALI40,40,Credit Card,Instagram Shop,Mumbai,Maharashtra,Mumbai,2024-11-09,Delivered,Yes,Size Issue,2024-12-03,Processed
+UT-100124,2024-10-30,CUST_10123,Returning,OUT-BLS-M,Outerwear,Brocade Blazer,4999,1,4999,DIWALI40,40,Debit Card,Mobile App,Delhi,Delhi,Delhi,2024-11-10,Delivered,No,,,Not Applicable
+UT-100125,2024-10-30,CUST_10124,New,ACC-MNG-OS,Accessories,Maang Tikka Set,899,1,899,DIWALI40,40,UPI,Website,Varanasi,Uttar Pradesh,Delhi,2024-11-10,Delivered,No,,,Not Applicable
+UT-100126,2024-10-30,CUST_10125,New,TOP-ZAR-L,Tops,Zardozi Blouse,3299,1,3299,DIWALI40,40,COD,Instagram Shop,Jaipur,Rajasthan,Delhi,2024-11-12,Delivered,Yes,Wrong Item,2024-12-05,Pending
+UT-100127,2024-10-31,CUST_10126,New,DRS-FES-L,Dresses,Festive Gown,7499,1,7499,DIWALI40,40,Credit Card,Website,Lucknow,Uttar Pradesh,Delhi,2024-11-11,Delivered,Yes,Size Issue,2024-12-04,Processed
+UT-100128,2024-10-31,CUST_10127,New,BOT-SLK-M,Bottoms,Silk Pants,3299,1,3299,DIWALI40,40,UPI,Mobile App,Chandigarh,Punjab,Delhi,2024-11-12,Delivered,Yes,Changed Mind,2024-12-06,Processed
+UT-100129,2024-10-31,CUST_10128,Returning,OUT-VLV-L,Outerwear,Velvet Jacket,5499,1,5499,DIWALI40,40,Debit Card,Instagram Shop,Noida,Uttar Pradesh,Delhi,2024-11-13,Delivered,Yes,Quality Defect,2024-12-08,Processed
+UT-100130,2024-10-31,CUST_10129,New,ACC-TKA-OS,Accessories,Tikka Headpiece,1199,1,1199,DIWALI40,40,COD,Website,Gurgaon,Haryana,Delhi,,RTO,No,,,Not Applicable
+UT-100131,2024-10-31,CUST_10130,New,TOP-GOT-S,Tops,Gota Patti Top,2799,1,2799,DIWALI40,40,Wallet,Mobile App,Indore,Madhya Pradesh,Mumbai,2024-11-12,Delivered,Yes,Size Issue,2024-12-07,Processed
+UT-100132,2024-11-01,CUST_10131,New,DRS-BND-M,Dresses,Bandhani Dress,3899,1,3899,DIWALI40,40,Credit Card,Instagram Shop,Surat,Gujarat,Mumbai,2024-11-10,Delivered,Yes,Wrong Item,2024-12-05,Processed
+UT-100133,2024-11-01,CUST_10132,New,BOT-BRC-L,Bottoms,Brocade Pants,2999,1,2999,DIWALI40,40,UPI,Website,Patna,Bihar,Delhi,2024-11-11,Delivered,No,,,Not Applicable
+UT-100134,2024-11-01,CUST_10133,Returning,OUT-ZRI-M,Outerwear,Zari Work Jacket,6499,1,6499,DIWALI40,40,Credit Card,Mobile App,Bhopal,Madhya Pradesh,Mumbai,2024-11-13,Delivered,Yes,Size Issue,2024-12-10,Processed
+UT-100135,2024-11-01,CUST_10134,New,ACC-JHM-OS,Accessories,Jhumka Earrings,999,2,1998,DIWALI40,40,Debit Card,Instagram Shop,Nagpur,Maharashtra,Mumbai,2024-11-11,Delivered,No,,,Not Applicable
+UT-100136,2024-11-02,CUST_10135,New,TOP-MRR-S,Tops,Mirror Work Top,2499,1,2499,DIWALI40,40,COD,Website,Coimbatore,Tamil Nadu,Bangalore,2024-11-12,Delivered,Yes,Quality Defect,2024-12-08,Processed
+UT-100137,2024-11-02,CUST_10136,New,DRS-PTL-M,Dresses,Patiala Suit,4599,1,4599,DIWALI40,40,UPI,Mobile App,Kochi,Kerala,Bangalore,2024-11-14,Delivered,Yes,Size Issue,2024-12-12,Processed
+UT-100138,2024-11-02,CUST_10137,New,BOT-DHT-L,Bottoms,Dhoti Pants,1799,1,1799,DIWALI40,40,Credit Card,Instagram Shop,Vizag,Andhra Pradesh,Bangalore,2024-11-13,Delivered,No,,,Not Applicable
+UT-100139,2024-11-02,CUST_10138,Returning,OUT-KTN-M,Outerwear,Katan Silk Jacket,7999,1,7999,DIWALI40,40,Wallet,Website,Thiruvananthapuram,Kerala,Bangalore,2024-11-15,Delivered,Yes,Changed Mind,2024-12-14,Processed
+UT-100140,2024-11-03,CUST_10139,New,ACC-KDN-OS,Accessories,Kundan Set,2499,1,2499,DIWALI40,40,Debit Card,Mobile App,Mysore,Karnataka,Bangalore,2024-11-14,Delivered,Yes,Damaged in Transit,2024-12-12,Processed
+UT-100141,2024-11-03,CUST_10140,New,TOP-CHK-L,Tops,Chikankari Top,2299,1,2299,DIWALI40,40,UPI,Instagram Shop,Vadodara,Gujarat,Mumbai,2024-11-15,Delivered,Yes,Size Issue,2024-12-13,Processed
+UT-100142,2024-11-03,CUST_10141,New,DRS-SHR-S,Dresses,Sharara Set,5999,1,5999,DIWALI40,40,Credit Card,Website,Rajkot,Gujarat,Mumbai,2024-11-16,Delivered,Yes,Wrong Item,2024-12-15,Processed
+UT-100143,2024-11-03,CUST_10142,Returning,BOT-GRR-M,Bottoms,Gharara Pants,2599,1,2599,DIWALI40,40,COD,Mobile App,Kanpur,Uttar Pradesh,Delhi,2024-11-15,Delivered,No,,,Not Applicable
+UT-100144,2024-11-04,CUST_10143,New,OUT-PHU-L,Outerwear,Phulkari Jacket,4299,1,4299,DIWALI40,40,Credit Card,Instagram Shop,Mumbai,Maharashtra,Mumbai,2024-11-17,Delivered,Yes,Quality Defect,2024-12-16,Processed
+UT-100145,2024-11-04,CUST_10144,New,ACC-MNP-OS,Accessories,Mang Patti,799,1,799,DIWALI40,40,UPI,Website,Delhi,Delhi,Delhi,2024-11-16,Delivered,No,,,Not Applicable
+UT-100146,2024-11-04,CUST_10145,New,TOP-BND-S,Tops,Bandhej Top,1899,1,1899,DIWALI40,40,Wallet,Mobile App,Kolkata,West Bengal,Delhi,2024-11-17,Delivered,Yes,Size Issue,2024-12-15,Processed
+UT-100147,2024-11-05,CUST_10146,New,DRS-LKH-M,Dresses,Lucknowi Dress,4899,1,4899,DIWALI40,40,Debit Card,Instagram Shop,Chennai,Tamil Nadu,Bangalore,2024-11-18,Delivered,Yes,Changed Mind,2024-12-17,Processed
+UT-100148,2024-11-05,CUST_10147,Returning,BOT-PTL-L,Bottoms,Patiala Pants,1499,1,1499,DIWALI40,40,Credit Card,Website,Hyderabad,Telangana,Bangalore,2024-11-17,Delivered,No,,,Not Applicable
+UT-100149,2024-11-05,CUST_10148,New,OUT-KTH-M,Outerwear,Katha Work Jacket,5699,1,5699,DIWALI40,40,UPI,Mobile App,Pune,Maharashtra,Mumbai,2024-11-19,Delivered,Yes,Size Issue,2024-12-18,Processed
+UT-100150,2024-11-05,CUST_10149,New,ACC-BNG-OS,Accessories,Bangle Set,599,4,2396,DIWALI40,40,COD,Instagram Shop,Ahmedabad,Gujarat,Mumbai,2024-11-18,Delivered,Yes,Damaged in Transit,2024-12-16,Processed
+UT-100151,2024-11-06,CUST_10150,New,TOP-KSH-L,Tops,Kashmiri Top,2999,1,2999,,0,Credit Card,Website,Jaipur,Rajasthan,Delhi,2024-11-19,Delivered,No,,,Not Applicable
+UT-100152,2024-11-06,CUST_10151,New,DRS-IDR-S,Dresses,Ikat Dress,2799,1,2799,,0,UPI,Mobile App,Lucknow,Uttar Pradesh,Delhi,2024-11-20,Delivered,Yes,Quality Defect,2024-12-18,Processed
+UT-100153,2024-11-06,CUST_10152,Returning,BOT-KLN-M,Bottoms,Kalamkari Pants,1699,1,1699,Nov15,15,Debit Card,Instagram Shop,Bangalore,Karnataka,Bangalore,2024-11-18,Delivered,No,,,Not Applicable
+UT-100154,2024-11-07,CUST_10153,New,OUT-JQD-L,Outerwear,Jacquard Jacket,4599,1,4599,,0,Credit Card,Website,Mumbai,Maharashtra,Mumbai,2024-11-21,Delivered,Yes,Size Issue,2024-12-20,Processed
+UT-100155,2024-11-07,CUST_10154,New,ACC-CHN-OS,Accessories,Choker Necklace,899,1,899,,0,COD,Mobile App,Delhi,Delhi,Delhi,2024-11-19,Delivered,No,,,Not Applicable
+UT-100156,2024-11-07,CUST_10155,New,TOP-AJR-M,Tops,Ajrakh Print Top,1799,1,1799,Nov15,15,UPI,Instagram Shop,Chandigarh,Punjab,Delhi,2024-11-20,Delivered,Yes,Wrong Item,2024-12-19,Processed
+UT-100157,2024-11-08,CUST_10156,New,DRS-BLK-L,Dresses,Block Print Dress,2599,1,2599,,0,Wallet,Website,Noida,Uttar Pradesh,Delhi,2024-11-22,Delivered,No,,,Not Applicable
+UT-100158,2024-11-08,CUST_10157,Returning,BOT-TIE-S,Bottoms,Tie Dye Pants,1599,1,1599,,0,Credit Card,Mobile App,Gurgaon,Haryana,Delhi,2024-11-20,Delivered,Yes,Changed Mind,2024-12-18,Processed
+UT-100159,2024-11-08,CUST_10158,New,OUT-EMB-M,Outerwear,Embellished Jacket,5299,1,5299,Nov15,15,Debit Card,Instagram Shop,Indore,Madhya Pradesh,Mumbai,2024-11-23,Delivered,No,,,Not Applicable
+UT-100160,2024-11-09,CUST_10159,New,ACC-HRM-OS,Accessories,Hair Clip Set,499,3,1497,,0,UPI,Website,Surat,Gujarat,Mumbai,2024-11-21,Delivered,Yes,Damaged in Transit,2024-12-19,Processed
+UT-100161,2024-11-09,CUST_10160,New,TOP-PRN-L,Tops,Printed Kurta,2099,1,2099,,0,COD,Mobile App,Patna,Bihar,Delhi,,RTO,No,,,Not Applicable
+UT-100162,2024-11-09,CUST_10161,New,DRS-FLR-S,Dresses,Floral Print Dress,2399,1,2399,Nov15,15,Credit Card,Instagram Shop,Bhopal,Madhya Pradesh,Mumbai,2024-11-24,Delivered,Yes,Size Issue,2024-12-22,Processed
+UT-100163,2024-11-10,CUST_10162,Returning,BOT-DOT-M,Bottoms,Polka Dot Pants,1799,1,1799,,0,Wallet,Website,Nagpur,Maharashtra,Mumbai,2024-11-22,Delivered,No,,,Not Applicable
+UT-100164,2024-10-10,CUST_10163,New,OUT-STR-L,Outerwear,Striped Blazer,4199,1,4199,,0,UPI,Mobile App,Coimbatore,Tamil Nadu,Bangalore,2024-11-25,Delivered,Yes,Quality Defect,2024-12-24,Processed
+UT-100165,2024-11-10,CUST_10164,New,ACC-TBR-OS,Accessories,Tassel Earrings,699,2,1398,,0,Debit Card,Instagram Shop,Kochi,Kerala,Bangalore,2024-11-23,Delivered,No,,,Not Applicable
+UT-100166,2024-11-11,CUST_10165,New,TOP-SLV-S,Tops,Sleeve Detail Top,1599,1,1599,Nov15,15,Credit Card,Website,Vizag,Andhra Pradesh,Bangalore,2024-11-24,Delivered,Yes,Size Issue,2024-12-23,Processed
+UT-100167,2024-11-11,CUST_10166,New,DRS-ASY-M,Dresses,Asymmetric Dress,2899,1,2899,,0,COD,Mobile App,Thiruvananthapuram,Kerala,Bangalore,2024-11-26,Delivered,Yes,Wrong Item,2024-12-25,Processed
+UT-100168,2024-11-11,CUST_10167,Returning,BOT-FRN-L,Bottoms,Fringe Pants,2199,1,2199,,0,UPI,Instagram Shop,Mysore,Karnataka,Bangalore,2024-11-24,Delivered,No,,,Not Applicable
+UT-100169,2024-11-12,CUST_10168,New,OUT-TWD-M,Outerwear,Tweed Jacket,5599,1,5599,,0,Credit Card,Website,Vadodara,Gujarat,Mumbai,2024-11-27,Delivered,Yes,Changed Mind,2024-12-26,Processed
+UT-100170,2024-11-12,CUST_10169,New,ACC-PIN-OS,Accessories,Brooch Pin,399,2,798,Nov15,15,Wallet,Mobile App,Rajkot,Gujarat,Mumbai,2024-11-25,Delivered,No,,,Not Applicable
+UT-100171,2024-11-12,CUST_10170,New,TOP-MCR-M,Tops,Macrame Top,1899,1,1899,,0,Debit Card,Instagram Shop,Kanpur,Uttar Pradesh,Delhi,2024-11-26,Delivered,Yes,Quality Defect,2024-12-24,Processed
+UT-100172,2024-11-13,CUST_10171,New,DRS-PLT-S,Dresses,Pleated Midi Dress,2699,1,2699,,0,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-11-28,Delivered,No,,,Not Applicable
+UT-100173,2024-11-13,CUST_10172,Returning,BOT-VLT-L,Bottoms,Velvet Pants,2499,1,2499,Nov15,15,Credit Card,Mobile App,Delhi,Delhi,Delhi,2024-11-26,Delivered,Yes,Size Issue,2024-12-25,Processed
+UT-100174,2024-11-13,CUST_10173,New,OUT-CHK-M,Outerwear,Check Coat,6299,1,6299,,0,COD,Instagram Shop,Kolkata,West Bengal,Delhi,,RTO,No,,,Not Applicable
+UT-100175,2024-11-14,CUST_10174,New,ACC-WVN-OS,Accessories,Woven Bag,1599,1,1599,,0,Wallet,Website,Chennai,Tamil Nadu,Bangalore,2024-11-27,Delivered,Yes,Damaged in Transit,2024-12-26,Processed
+UT-100176,2024-11-14,CUST_10175,New,TOP-BLN-L,Tops,Balloon Sleeve Top,1699,1,1699,,0,UPI,Mobile App,Hyderabad,Telangana,Bangalore,2024-11-28,Delivered,No,,,Not Applicable
+UT-100177,2024-11-14,CUST_10176,New,DRS-CRO-S,Dresses,Crochet Dress,3199,1,3199,Nov15,15,Debit Card,Instagram Shop,Pune,Maharashtra,Mumbai,2024-11-29,Delivered,Yes,Size Issue,2024-12-28,Processed
+UT-100178,2024-11-15,CUST_10177,Returning,BOT-PTW-M,Bottoms,Patchwork Pants,2099,1,2099,,0,Credit Card,Website,Ahmedabad,Gujarat,Mumbai,2024-11-28,Delivered,No,,,Not Applicable
+UT-100179,2024-11-15,CUST_10178,New,OUT-HRN-L,Outerwear,Herringbone Coat,6999,1,6999,,0,UPI,Mobile App,Jaipur,Rajasthan,Delhi,2024-11-30,Delivered,Yes,Wrong Item,2024-12-29,Processed
+UT-100180,2024-11-15,CUST_10179,New,ACC-MTL-OS,Accessories,Metal Belt,899,1,899,,0,COD,Instagram Shop,Lucknow,Uttar Pradesh,Delhi,2024-11-28,Delivered,Yes,Changed Mind,2024-12-27,Processed
+UT-100181,2024-11-16,CUST_10180,New,TOP-RCH-S,Tops,Rouched Top,1499,1,1499,Nov15,15,Wallet,Website,Bangalore,Karnataka,Bangalore,2024-11-29,Delivered,No,,,Not Applicable
+UT-100182,2024-11-16,CUST_10181,New,DRS-TRF-M,Dresses,Tiered Ruffle Dress,2999,1,2999,,0,Debit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2024-12-01,Delivered,Yes,Quality Defect,2024-12-30,Processed
+UT-100183,2024-11-16,CUST_10182,Returning,BOT-BND-L,Bottoms,Banded Pants,1899,1,1899,,0,Credit Card,Instagram Shop,Delhi,Delhi,Delhi,2024-11-29,Delivered,No,,,Not Applicable
+UT-100184,2024-11-17,CUST_10183,New,OUT-CML-M,Outerwear,Camel Coat,7499,1,7499,,0,UPI,Website,Chandigarh,Punjab,Delhi,2024-12-02,Delivered,Yes,Size Issue,2024-12-31,Processed
+UT-100185,2024-11-17,CUST_10184,New,ACC-STN-OS,Accessories,Stone Necklace,1299,1,1299,Nov15,15,COD,Mobile App,Noida,Uttar Pradesh,Delhi,2024-11-30,Delivered,No,,,Not Applicable
+UT-100186,2024-11-17,CUST_10185,New,TOP-KNT-M,Tops,Knotted Top,1599,1,1599,,0,Credit Card,Instagram Shop,Gurgaon,Haryana,Delhi,2024-12-01,Delivered,Yes,Damaged in Transit,2024-12-29,Processed
+UT-100187,2024-11-18,CUST_10186,New,DRS-SQN-L,Dresses,Sequin Midi Dress,3799,1,3799,,0,Wallet,Website,Indore,Madhya Pradesh,Mumbai,2024-12-03,Delivered,No,,,Not Applicable
+UT-100188,2024-11-18,CUST_10187,Returning,BOT-GLT-S,Bottoms,Glitter Pants,2299,1,2299,,0,UPI,Mobile App,Surat,Gujarat,Mumbai,2024-12-01,Delivered,Yes,Size Issue,2024-12-30,Processed
+UT-100189,2024-11-18,CUST_10188,New,OUT-FXF-M,Outerwear,Faux Fur Jacket,5999,1,5999,Nov15,15,Debit Card,Instagram Shop,Patna,Bihar,Delhi,2024-12-04,Delivered,Yes,Wrong Item,2025-01-02,Processed
+UT-100190,2024-11-19,CUST_10189,New,ACC-CHM-OS,Accessories,Charm Anklet,499,2,998,,0,Credit Card,Website,Bhopal,Madhya Pradesh,Mumbai,2024-12-02,Delivered,No,,,Not Applicable
+UT-100191,2024-11-19,CUST_10190,New,TOP-TXD-L,Tops,Textured Top,1799,1,1799,,0,COD,Mobile App,Nagpur,Maharashtra,Mumbai,,RTO,No,,,Not Applicable
+UT-100192,2024-11-19,CUST_10191,New,DRS-VLR-S,Dresses,Velour Dress,2999,1,2999,,0,UPI,Instagram Shop,Coimbatore,Tamil Nadu,Bangalore,2024-12-05,Delivered,Yes,Changed Mind,2025-01-03,Processed
+UT-100193,2024-11-20,CUST_10192,Returning,BOT-STN-M,Bottoms,Satin Pants,2199,1,2199,Nov15,15,Wallet,Website,Kochi,Kerala,Bangalore,2024-12-03,Delivered,No,,,Not Applicable
+UT-100194,2024-11-20,CUST_10193,New,OUT-SHN-L,Outerwear,Shiny Jacket,4899,1,4899,,0,Debit Card,Mobile App,Vizag,Andhra Pradesh,Bangalore,2024-12-06,Delivered,Yes,Quality Defect,2025-01-04,Processed
+UT-100195,2024-11-20,CUST_10194,New,ACC-PRL-OS,Accessories,Pearl Earrings,799,1,799,,0,Credit Card,Instagram Shop,Thiruvananthapuram,Kerala,Bangalore,2024-12-04,Delivered,No,,,Not Applicable
+UT-100196,2024-11-21,CUST_10195,New,TOP-MTL-S,Tops,Metallic Top,1999,1,1999,,0,UPI,Website,Mysore,Karnataka,Bangalore,2024-12-05,Delivered,Yes,Size Issue,2025-01-03,Processed
+UT-100197,2024-11-21,CUST_10196,New,DRS-GLM-M,Dresses,Glamour Dress,3499,1,3499,Nov15,15,COD,Mobile App,Vadodara,Gujarat,Mumbai,2024-12-07,Delivered,Yes,Wrong Item,2025-01-05,Processed
+UT-100198,2024-11-21,CUST_10197,Returning,BOT-LME-L,Bottoms,Lame Pants,2599,1,2599,,0,Credit Card,Instagram Shop,Rajkot,Gujarat,Mumbai,2024-12-05,Delivered,No,,,Not Applicable
+UT-100199,2024-11-22,CUST_10198,New,OUT-SPK-M,Outerwear,Sparkle Jacket,5499,1,5499,,0,Wallet,Website,Kanpur,Uttar Pradesh,Delhi,2024-12-08,Delivered,Yes,Changed Mind,2025-01-06,Processed
+UT-100200,2024-11-22,CUST_10199,New,ACC-CRY-OS,Accessories,Crystal Bracelet,999,1,999,,0,Debit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2024-12-06,Delivered,No,,,Not Applicable
+UT-100201,2024-11-22,CUST_10200,New,TOP-SHR-L,Tops,Sheer Top,1699,1,1699,Nov15,15,UPI,Instagram Shop,Delhi,Delhi,Delhi,2024-12-07,Delivered,Yes,Damaged in Transit,2025-01-05,Processed
+UT-100202,2024-11-23,CUST_10201,New,DRS-CHF-S,Dresses,Chiffon Dress,2799,1,2799,,0,Credit Card,Website,Kolkata,West Bengal,Delhi,2024-12-09,Delivered,No,,,Not Applicable
+UT-100203,2024-11-23,CUST_10202,Returning,BOT-ORG-M,Bottoms,Organza Pants,2399,1,2399,,0,COD,Mobile App,Chennai,Tamil Nadu,Bangalore,2024-12-07,Delivered,Yes,Quality Defect,2025-01-04,Processed
+UT-100204,2024-11-23,CUST_10203,New,OUT-MET-L,Outerwear,Metallic Coat,6799,1,6799,,0,UPI,Instagram Shop,Hyderabad,Telangana,Bangalore,2024-12-10,Delivered,Yes,Size Issue,2025-01-08,Processed
+UT-100205,2024-11-24,CUST_10204,New,ACC-DMD-OS,Accessories,Diamond Studs,1499,1,1499,Nov15,15,Wallet,Website,Pune,Maharashtra,Mumbai,2024-12-08,Delivered,No,,,Not Applicable
+UT-100206,2024-11-24,CUST_10205,New,TOP-BDS-M,Tops,Beaded Top,2299,1,2299,,0,Debit Card,Mobile App,Ahmedabad,Gujarat,Mumbai,2024-12-09,Delivered,Yes,Wrong Item,2025-01-07,Processed
+UT-100207,2024-11-24,CUST_10206,New,DRS-SPL-L,Dresses,Sparkle Gown,4999,1,4999,,0,Credit Card,Instagram Shop,Jaipur,Rajasthan,Delhi,2024-12-11,Delivered,No,,,Not Applicable
+UT-100208,2024-11-25,CUST_10207,Returning,BOT-EMB-S,Bottoms,Embroidered Pants,2099,1,2099,,0,UPI,Website,Lucknow,Uttar Pradesh,Delhi,2024-12-09,Delivered,Yes,Changed Mind,2025-01-06,Processed
+UT-100209,2024-11-25,CUST_10208,New,OUT-NYE-M,Outerwear,NYE Jacket,5799,1,5799,Nov15,15,COD,Mobile App,Bangalore,Karnataka,Bangalore,2024-12-12,Delivered,Yes,Size Issue,2025-01-10,Processed
+UT-100210,2024-11-25,CUST_10209,New,ACC-GLD-OS,Accessories,Gold Cuff,1199,1,1199,,0,Credit Card,Instagram Shop,Mumbai,Maharashtra,Mumbai,2024-12-10,Delivered,No,,,Not Applicable
+UT-100211,2024-11-26,CUST_10210,New,TOP-FTR-S,Tops,Feather Top,1899,1,1899,,0,Wallet,Website,Delhi,Delhi,Delhi,2024-12-11,Delivered,Yes,Damaged in Transit,2025-01-08,Processed
+UT-100212,2024-11-26,CUST_10211,New,DRS-CCK-M,Dresses,Cocktail Dress,3699,1,3699,,0,Debit Card,Mobile App,Chandigarh,Punjab,Delhi,2024-12-13,Delivered,No,,,Not Applicable
+UT-100213,2024-11-26,CUST_10212,Returning,BOT-SQN-L,Bottoms,Sequin Skirt,2699,1,2699,Nov15,15,UPI,Instagram Shop,Noida,Uttar Pradesh,Delhi,2024-12-11,Delivered,Yes,Quality Defect,2025-01-09,Processed
+UT-100214,2024-11-27,CUST_10213,New,OUT-PRT-M,Outerwear,Party Jacket,4999,1,4999,,0,Credit Card,Website,Gurgaon,Haryana,Delhi,2024-12-14,Delivered,Yes,Size Issue,2025-01-12,Processed
+UT-100215,2024-11-27,CUST_10214,New,ACC-SLV-OS,Accessories,Silver Bangle,899,2,1798,,0,COD,Mobile App,Indore,Madhya Pradesh,Mumbai,2024-12-12,Delivered,No,,,Not Applicable
+UT-100216,2024-11-27,CUST_10215,New,TOP-GLT-L,Tops,Glitter Tank,1599,1,1599,,0,UPI,Instagram Shop,Surat,Gujarat,Mumbai,2024-12-13,Delivered,Yes,Wrong Item,2025-01-10,Processed
+UT-100217,2024-11-28,CUST_10216,New,DRS-STR-S,Dresses,Star Print Dress,2599,1,2599,Nov15,15,Wallet,Website,Patna,Bihar,Delhi,2024-12-15,Delivered,No,,,Not Applicable
+UT-100218,2024-11-28,CUST_10217,Returning,BOT-MTL-M,Bottoms,Metallic Pants,2399,1,2399,,0,Debit Card,Mobile App,Bhopal,Madhya Pradesh,Mumbai,2024-12-13,Delivered,Yes,Changed Mind,2025-01-11,Processed
+UT-100219,2024-11-28,CUST_10218,New,OUT-FRM-L,Outerwear,Formal Coat,6499,1,6499,,0,Credit Card,Instagram Shop,Nagpur,Maharashtra,Mumbai,2024-12-16,Delivered,Yes,Size Issue,2025-01-14,Processed
+UT-100220,2024-11-29,CUST_10219,New,ACC-RBN-OS,Accessories,Ribbon Choker,499,2,998,,0,UPI,Website,Coimbatore,Tamil Nadu,Bangalore,2024-12-14,Delivered,No,,,Not Applicable
+UT-100221,2024-11-29,CUST_10220,New,TOP-VNY-M,Tops,Vinyl Top,1999,1,1999,,0,COD,Mobile App,Kochi,Kerala,Bangalore,,RTO,No,,,Not Applicable
+UT-100222,2024-11-29,CUST_10221,New,DRS-NYE-L,Dresses,New Year Gown,5499,1,5499,Nov15,15,Credit Card,Instagram Shop,Vizag,Andhra Pradesh,Bangalore,2024-12-17,Delivered,Yes,Quality Defect,2025-01-15,Processed
+UT-100223,2024-11-30,CUST_10222,Returning,BOT-LTX-S,Bottoms,Latex Pants,2799,1,2799,,0,Wallet,Website,Thiruvananthapuram,Kerala,Bangalore,2024-12-15,Delivered,No,,,Not Applicable
+UT-100224,2024-11-30,CUST_10223,New,OUT-GLM-M,Outerwear,Glam Jacket,5299,1,5299,,0,Debit Card,Mobile App,Mysore,Karnataka,Bangalore,2024-12-18,Delivered,Yes,Damaged in Transit,2025-01-16,Processed
+UT-100225,2024-11-30,CUST_10224,New,ACC-GEM-OS,Accessories,Gemstone Ring,1099,1,1099,,0,UPI,Instagram Shop,Vadodara,Gujarat,Mumbai,2024-12-16,Delivered,Yes,Size Issue,2025-01-14,Processed
+UT-100226,2024-12-01,CUST_10225,New,TOP-HOD-L,Tops,Zip Hoodie,2499,1,2499,Dec20,20,Credit Card,Website,Mumbai,Maharashtra,Mumbai,2024-12-06,Delivered,No,,,Not Applicable
+UT-100227,2024-12-01,CUST_10226,New,OUT-COT-M,Outerwear,Puffer Coat,6499,1,6499,Dec20,20,COD,Mobile App,Delhi,Delhi,Delhi,2024-12-08,Delivered,Yes,Changed Mind,2024-12-28,Pending
+UT-100228,2024-12-01,CUST_10227,Returning,ACC-MFL-OS,Accessories,Cashmere Scarf,1499,1,1499,,0,UPI,Instagram Shop,Chandigarh,Punjab,Delhi,2024-12-07,Delivered,No,,,Not Applicable
+UT-100229,2024-12-01,CUST_10228,New,DRS-PLT-M,Dresses,Pleated Dress,2899,1,2899,Dec20,20,Debit Card,Website,Amritsar,Punjab,Delhi,2024-12-09,Delivered,Yes,Size Issue,2024-12-30,Processed
+UT-100230,2024-12-02,CUST_10229,New,TOP-THR-L,Tops,Thermal Top,1599,2,3198,,0,Credit Card,Mobile App,Shimla,Himachal Pradesh,Delhi,2024-12-09,Delivered,No,,,Not Applicable
+UT-100231,2024-12-02,CUST_10230,New,BOT-FLC-M,Bottoms,Fleece Joggers,1799,1,1799,Dec20,20,Wallet,Instagram Shop,Dehradun,Uttarakhand,Delhi,2024-12-10,Delivered,No,,,Not Applicable
+UT-100232,2024-12-02,CUST_10231,New,OUT-WND-L,Outerwear,Windbreaker,3299,1,3299,,0,UPI,Website,Srinagar,Jammu & Kashmir,Delhi,2024-12-11,Delivered,Yes,Wrong Item,2025-01-02,Pending
+UT-100233,2024-12-02,CUST_10232,Returning,ACC-BNE-OS,Accessories,Beanie Cap,599,2,1198,Dec20,20,COD,Mobile App,Manali,Himachal Pradesh,Delhi,2024-12-10,Delivered,No,,,Not Applicable
+UT-100234,2024-12-03,CUST_10233,New,TOP-SWT-S,Tops,Cropped Sweater,2199,1,2199,,0,Debit Card,Instagram Shop,Darjeeling,West Bengal,Delhi,2024-12-12,Delivered,Yes,Size Issue,2025-01-03,Processed
+UT-100235,2024-12-03,CUST_10234,New,DRS-WRM-M,Dresses,Wrap Dress,2499,1,2499,Dec20,20,Credit Card,Website,Gangtok,Sikkim,Delhi,2024-12-12,Delivered,No,,,Not Applicable
+UT-100236,2024-12-03,CUST_10235,New,BOT-WOL-L,Bottoms,Wool Trousers,2999,1,2999,,0,UPI,Mobile App,Shillong,Meghalaya,Delhi,2024-12-14,Delivered,Yes,Quality Defect,2025-01-05,Processed
+UT-100237,2024-12-03,CUST_10236,New,OUT-DWN-M,Outerwear,Down Jacket,7999,1,7999,Dec20,20,Wallet,Instagram Shop,Leh,Ladakh,Delhi,2024-12-14,Delivered,No,,,Not Applicable
+UT-100238,2024-12-04,CUST_10237,Returning,TOP-VLV-S,Tops,Velvet Top,1999,1,1999,,0,Credit Card,Website,Ooty,Tamil Nadu,Bangalore,2024-12-13,Delivered,No,,,Not Applicable
+UT-100239,2024-12-04,CUST_10238,New,ACC-ERM-OS,Accessories,Ear Muffs,499,2,998,Dec20,20,COD,Mobile App,Munnar,Kerala,Bangalore,2024-12-13,Delivered,No,,,Not Applicable
+UT-100240,2024-12-04,CUST_10239,New,DRS-NYE-S,Dresses,Sequin Party Dress,4999,1,4999,,0,Debit Card,Instagram Shop,Goa,Goa,Mumbai,2024-12-14,Delivered,Yes,Size Issue,2025-01-06,Processed
+UT-100241,2024-12-04,CUST_10240,New,TOP-SPK-M,Tops,Sparkle Top,2299,1,2299,Dec20,20,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-12-13,Delivered,No,,,Not Applicable
+UT-100242,2024-12-05,CUST_10241,New,BOT-VLV-S,Bottoms,Velvet Pants,2599,1,2599,,0,Credit Card,Mobile App,Bangalore,Karnataka,Bangalore,2024-12-15,Delivered,Yes,Changed Mind,2025-01-08,Processed
+UT-100243,2024-12-05,CUST_10242,Returning,OUT-FUR-L,Outerwear,Faux Fur Coat,8999,1,8999,Dec20,20,Wallet,Instagram Shop,Delhi,Delhi,Delhi,2024-12-17,Delivered,Yes,Size Issue,2025-01-10,Pending
+UT-100244,2024-12-05,CUST_10243,New,ACC-CLT-OS,Accessories,Evening Clutch,1799,1,1799,,0,UPI,Website,Hyderabad,Telangana,Bangalore,2024-12-16,Delivered,No,,,Not Applicable
+UT-100245,2024-12-05,CUST_10244,New,TOP-MET-S,Tops,Metallic Blouse,2199,1,2199,,0,Debit Card,Mobile App,Chennai,Tamil Nadu,Bangalore,2024-12-16,Delivered,No,,,Not Applicable
+UT-100246,2024-12-06,CUST_10245,New,DRS-GLT-M,Dresses,Glitter Dress,3799,1,3799,Dec20,20,COD,Instagram Shop,Pune,Maharashtra,Mumbai,2024-12-18,Delivered,Yes,Quality Defect,2025-01-12,Processed
+UT-100247,2024-12-06,CUST_10246,New,BOT-SLK-S,Bottoms,Silk Trousers,2899,1,2899,,0,Credit Card,Website,Kolkata,West Bengal,Delhi,2024-12-18,Delivered,No,,,Not Applicable
+UT-100248,2024-12-06,CUST_10247,Returning,OUT-CPE-M,Outerwear,Velvet Cape,4599,1,4599,Dec20,20,UPI,Mobile App,Jaipur,Rajasthan,Delhi,2024-12-19,Delivered,Yes,Size Issue,2025-01-14,Processed
+UT-100249,2024-12-06,CUST_10248,New,ACC-HDB-OS,Accessories,Embellished Handbag,2499,1,2499,,0,Wallet,Instagram Shop,Lucknow,Uttar Pradesh,Delhi,2024-12-19,Delivered,No,,,Not Applicable
+UT-100250,2024-12-07,CUST_10249,New,TOP-NYE-XS,Tops,Party Bodysuit,1899,1,1899,,0,Debit Card,Website,Goa,Goa,Mumbai,,RTO,No,,,Not Applicable
+UT-100251,2024-12-07,CUST_10250,New,DRS-CCT-S,Dresses,Cocktail Dress,3299,1,3299,Dec20,20,Credit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2024-12-20,Delivered,No,,,Not Applicable
+UT-100252,2024-12-07,CUST_10251,New,BOT-SQN-M,Bottoms,Sequin Skirt,2199,1,2199,,0,COD,Instagram Shop,Delhi,Delhi,Delhi,2024-12-21,Delivered,Yes,Damaged in Transit,2025-01-15,Pending
+UT-100253,2024-12-07,CUST_10252,Returning,OUT-BLZ-S,Outerwear,Tuxedo Blazer,5499,1,5499,Dec20,20,UPI,Website,Bangalore,Karnataka,Bangalore,2024-12-21,Delivered,No,,,Not Applicable
+UT-100254,2024-12-08,CUST_10253,New,ACC-TRA-OS,Accessories,Tiara Headband,999,1,999,,0,Wallet,Mobile App,Ahmedabad,Gujarat,Mumbai,2024-12-22,Delivered,No,,,Not Applicable
+UT-100255,2024-12-08,CUST_10254,New,TOP-OFF-M,Tops,Off-Shoulder Top,1699,2,3398,,0,Debit Card,Instagram Shop,Surat,Gujarat,Mumbai,2024-12-22,Delivered,Yes,Size Issue,2025-01-16,Processed
+UT-100256,2024-12-08,CUST_10255,New,DRS-BLB-S,Dresses,Balloon Sleeve Dress,2799,1,2799,Dec20,20,Credit Card,Website,Vadodara,Gujarat,Mumbai,2024-12-23,Delivered,Yes,Wrong Item,2025-01-18,Processed
+UT-100257,2024-12-08,CUST_10256,New,BOT-WDE-L,Bottoms,Wide Leg Pants,2299,1,2299,,0,UPI,Mobile App,Rajkot,Gujarat,Mumbai,2024-12-23,Delivered,No,,,Not Applicable
+UT-100258,2024-12-09,CUST_10257,Returning,OUT-SQN-M,Outerwear,Sequin Jacket,5999,1,5999,,0,COD,Instagram Shop,Kanpur,Uttar Pradesh,Delhi,2024-12-24,Delivered,Yes,Changed Mind,2025-01-20,Processed
+UT-100259,2024-12-09,CUST_10258,New,ACC-PRT-OS,Accessories,Party Earrings,899,2,1798,Dec20,20,Wallet,Website,Mumbai,Maharashtra,Mumbai,2024-12-23,Delivered,No,,,Not Applicable
+UT-100260,2024-12-09,CUST_10259,New,TOP-FTH-S,Tops,Feather Trim Top,2099,1,2099,,0,Debit Card,Mobile App,Delhi,Delhi,Delhi,2024-12-24,Delivered,Yes,Quality Defect,2025-01-19,Processed
+UT-100261,2024-12-10,CUST_10260,New,DRS-PRY-M,Dresses,Party Maxi,3999,1,3999,,0,Credit Card,Instagram Shop,Chandigarh,Punjab,Delhi,2024-12-25,Delivered,Yes,Size Issue,2025-01-22,Processed
+UT-100262,2024-12-10,CUST_10261,New,BOT-GLM-S,Bottoms,Glam Pants,2499,1,2499,Dec20,20,UPI,Website,Noida,Uttar Pradesh,Delhi,2024-12-25,Delivered,No,,,Not Applicable
+UT-100263,2024-12-10,CUST_10262,Returning,OUT-LME-L,Outerwear,Lame Blazer,4899,1,4899,,0,COD,Mobile App,Gurgaon,Haryana,Delhi,2024-12-26,Delivered,Yes,Wrong Item,2025-01-23,Processed
+UT-100264,2024-12-10,CUST_10263,New,ACC-NYE-OS,Accessories,NYE Headpiece,1199,1,1199,,0,Wallet,Instagram Shop,Indore,Madhya Pradesh,Mumbai,2024-12-25,Delivered,No,,,Not Applicable
+UT-100265,2024-12-10,CUST_10264,New,TOP-SHM-M,Tops,Shimmer Top,1899,1,1899,Dec20,20,Debit Card,Website,Surat,Gujarat,Mumbai,2024-12-26,Delivered,Yes,Damaged in Transit,2025-01-21,Processed
+UT-100266,2024-12-11,CUST_10265,New,DRS-CNT-L,Dresses,Countdown Dress,3599,1,3599,,0,Credit Card,Mobile App,Patna,Bihar,Delhi,2024-12-27,Delivered,No,,,Not Applicable
+UT-100267,2024-12-11,CUST_10266,New,BOT-CHM-S,Bottoms,Champagne Pants,2699,1,2699,,0,UPI,Instagram Shop,Bhopal,Madhya Pradesh,Mumbai,2024-12-27,Delivered,Yes,Size Issue,2025-01-24,Processed
+UT-100268,2024-12-11,CUST_10267,Returning,OUT-RSE-M,Outerwear,Rose Gold Jacket,5599,1,5599,Dec20,20,COD,Website,Nagpur,Maharashtra,Mumbai,2024-12-28,Delivered,Yes,Changed Mind,2025-01-25,Processed
+UT-100269,2024-12-11,CUST_10268,New,ACC-MSK-OS,Accessories,Mask Chain,399,3,1197,,0,Wallet,Mobile App,Coimbatore,Tamil Nadu,Bangalore,2024-12-27,Delivered,No,,,Not Applicable
+UT-100270,2024-12-12,CUST_10269,New,TOP-CEL-L,Tops,Celebration Top,2199,1,2199,,0,Debit Card,Instagram Shop,Kochi,Kerala,Bangalore,2024-12-28,Delivered,Yes,Quality Defect,2025-01-23,Processed
+UT-100271,2024-12-12,CUST_10270,New,DRS-MID-S,Dresses,Midnight Dress,4299,1,4299,Dec20,20,Credit Card,Website,Vizag,Andhra Pradesh,Bangalore,2024-12-29,Delivered,No,,,Not Applicable
+UT-100272,2024-12-12,CUST_10271,New,BOT-NYS-M,Bottoms,NYE Skirt,2399,1,2399,,0,UPI,Mobile App,Thiruvananthapuram,Kerala,Bangalore,2024-12-29,Delivered,Yes,Wrong Item,2025-01-26,Processed
+UT-100273,2024-12-12,CUST_10272,Returning,OUT-FRS-L,Outerwear,Frost Jacket,6299,1,6299,,0,COD,Instagram Shop,Mysore,Karnataka,Bangalore,,RTO,No,,,Not Applicable
+UT-100274,2024-12-13,CUST_10273,New,ACC-SPR-OS,Accessories,Sparkle Hair Clip,599,2,1198,Dec20,20,Wallet,Website,Vadodara,Gujarat,Mumbai,2024-12-29,Delivered,No,,,Not Applicable
+UT-100275,2024-12-13,CUST_10274,New,TOP-GLS-M,Tops,Glass Bead Top,2399,1,2399,,0,Debit Card,Mobile App,Rajkot,Gujarat,Mumbai,2024-12-30,Delivered,Yes,Size Issue,2025-01-27,Processed
+UT-100276,2024-12-13,CUST_10275,New,DRS-FNL-L,Dresses,Finale Gown,5999,1,5999,,0,Credit Card,Instagram Shop,Kanpur,Uttar Pradesh,Delhi,2024-12-31,Delivered,Yes,Damaged in Transit,2025-01-28,Processed
+UT-100277,2024-12-13,CUST_10276,New,BOT-PRY-S,Bottoms,Party Leggings,1899,1,1899,Dec20,20,UPI,Website,Mumbai,Maharashtra,Mumbai,2024-12-30,Delivered,No,,,Not Applicable
+UT-100278,2024-12-14,CUST_10277,Returning,OUT-CHR-M,Outerwear,Christmas Jacket,4999,1,4999,,0,COD,Mobile App,Delhi,Delhi,Delhi,2024-12-31,Delivered,Yes,Changed Mind,2025-01-29,Processed
+UT-100279,2024-12-14,CUST_10278,New,ACC-BLS-OS,Accessories,Blush Bag,1699,1,1699,,0,Wallet,Instagram Shop,Kolkata,West Bengal,Delhi,2024-12-30,Delivered,Yes,Quality Defect,2025-01-26,Processed
+UT-100280,2024-12-14,CUST_10279,New,TOP-YRS-L,Tops,Year End Top,2099,1,2099,Dec20,20,Debit Card,Website,Chennai,Tamil Nadu,Bangalore,2024-12-31,Delivered,No,,,Not Applicable
+UT-100281,2024-12-14,CUST_10280,New,DRS-EVE-S,Dresses,Evening Elegance,4599,1,4599,,0,Credit Card,Mobile App,Hyderabad,Telangana,Bangalore,2025-01-02,Delivered,Yes,Size Issue,2025-01-30,Processed
+UT-100282,2024-12-15,CUST_10281,New,BOT-FNS-M,Bottoms,Finish Line Pants,2299,1,2299,,0,UPI,Instagram Shop,Pune,Maharashtra,Mumbai,2025-01-02,Delivered,No,,,Not Applicable
+UT-100283,2024-12-15,CUST_10282,Returning,OUT-NYB-L,Outerwear,NYE Blazer,5799,1,5799,Dec20,20,COD,Website,Ahmedabad,Gujarat,Mumbai,2025-01-03,Delivered,Yes,Wrong Item,2025-01-31,Processed
+UT-100284,2024-12-15,CUST_10283,New,ACC-CNT-OS,Accessories,Countdown Earrings,799,2,1598,,0,Wallet,Mobile App,Jaipur,Rajasthan,Delhi,2025-01-02,Delivered,No,,,Not Applicable
+UT-100285,2024-12-15,CUST_10284,New,TOP-LST-S,Tops,Last Dance Top,1999,1,1999,,0,Debit Card,Instagram Shop,Lucknow,Uttar Pradesh,Delhi,2025-01-03,Delivered,Yes,Damaged in Transit,2025-01-30,Processed
+UT-100286,2024-12-16,CUST_10285,New,DRS-BLS-M,Dresses,Bliss Dress,3899,1,3899,Dec20,20,Credit Card,Website,Bangalore,Karnataka,Bangalore,2025-01-04,Delivered,Yes,Size Issue,2025-02-01,Processed
+UT-100287,2024-12-16,CUST_10286,New,BOT-END-L,Bottoms,Year End Pants,2599,1,2599,,0,UPI,Mobile App,Mumbai,Maharashtra,Mumbai,2025-01-04,Delivered,No,,,Not Applicable
+UT-100288,2024-12-16,CUST_10287,New,OUT-CLB-M,Outerwear,Celebration Blazer,5299,1,5299,,0,COD,Instagram Shop,Delhi,Delhi,Delhi,2025-01-05,Delivered,Yes,Changed Mind,2025-02-02,Processed
+UT-100289,2024-12-16,CUST_10288,Returning,ACC-FNL-OS,Accessories,Finale Necklace,1399,1,1399,Dec20,20,Wallet,Website,Chandigarh,Punjab,Delhi,2025-01-04,Delivered,No,,,Not Applicable
+UT-100290,2024-12-17,CUST_10289,New,TOP-PRY-M,Tops,Party Essential Top,1799,1,1799,,0,Debit Card,Mobile App,Noida,Uttar Pradesh,Delhi,2025-01-05,Delivered,Yes,Quality Defect,2025-02-01,Processed
+UT-100291,2024-12-17,CUST_10290,New,DRS-SHN-L,Dresses,Shine On Dress,4199,1,4199,,0,Credit Card,Instagram Shop,Gurgaon,Haryana,Delhi,2025-01-06,Delivered,Yes,Size Issue,2025-02-03,Processed
+UT-100292,2024-12-17,CUST_10291,New,BOT-GLD-S,Bottoms,Gold Rush Pants,2799,1,2799,Dec20,20,UPI,Website,Indore,Madhya Pradesh,Mumbai,2025-01-06,Delivered,No,,,Not Applicable
+UT-100293,2024-12-17,CUST_10292,New,OUT-DZL-M,Outerwear,Dazzle Jacket,5499,1,5499,,0,COD,Mobile App,Surat,Gujarat,Mumbai,2025-01-07,Delivered,Yes,Wrong Item,2025-02-04,Processed
+UT-100294,2024-12-18,CUST_10293,Returning,ACC-GLW-OS,Accessories,Glow Bracelet,699,2,1398,,0,Wallet,Instagram Shop,Patna,Bihar,Delhi,2025-01-06,Delivered,No,,,Not Applicable
+UT-100295,2024-12-18,CUST_10294,New,TOP-SLB-L,Tops,Celebrate Top,2299,1,2299,Dec20,20,Debit Card,Website,Bhopal,Madhya Pradesh,Mumbai,2025-01-07,Delivered,Yes,Damaged in Transit,2025-02-03,Processed
+UT-100296,2024-12-18,CUST_10295,New,DRS-RDY-S,Dresses,Ready to Party Dress,3599,1,3599,,0,Credit Card,Mobile App,Nagpur,Maharashtra,Mumbai,2025-01-08,Delivered,No,,,Not Applicable
+UT-100297,2024-12-18,CUST_10296,New,BOT-BRT-M,Bottoms,Bright Night Pants,2499,1,2499,,0,UPI,Instagram Shop,Coimbatore,Tamil Nadu,Bangalore,2025-01-08,Delivered,Yes,Size Issue,2025-02-05,Processed
+UT-100298,2024-12-19,CUST_10297,New,OUT-END-L,Outerwear,End of Year Coat,6799,1,6799,Dec20,20,COD,Website,Kochi,Kerala,Bangalore,2025-01-09,Delivered,Yes,Changed Mind,2025-02-06,Processed
+UT-100299,2024-12-19,CUST_10298,Returning,ACC-MRY-OS,Accessories,Merry Earrings,599,3,1797,,0,Wallet,Mobile App,Vizag,Andhra Pradesh,Bangalore,2025-01-08,Delivered,No,,,Not Applicable
+UT-100300,2024-12-19,CUST_10299,New,TOP-JOY-M,Tops,Joyful Top,1899,1,1899,,0,Debit Card,Instagram Shop,Thiruvananthapuram,Kerala,Bangalore,2025-01-09,Delivered,Yes,Quality Defect,2025-02-05,Processed
+UT-100301,2024-12-19,CUST_10300,New,DRS-WND-L,Dresses,Winter Wonder Dress,4499,1,4499,Dec20,20,Credit Card,Website,Mysore,Karnataka,Bangalore,2025-01-10,Delivered,Yes,Size Issue,2025-02-07,Processed
+UT-100302,2024-12-20,CUST_10301,New,BOT-FST-S,Bottoms,Festive Pants,2199,1,2199,,0,UPI,Mobile App,Vadodara,Gujarat,Mumbai,2025-01-10,Delivered,No,,,Not Applicable
+UT-100303,2024-12-20,CUST_10302,New,OUT-HOL-M,Outerwear,Holiday Jacket,5199,1,5199,,0,COD,Instagram Shop,Rajkot,Gujarat,Mumbai,2025-01-11,Delivered,Yes,Wrong Item,2025-02-08,Processed
+UT-100304,2024-12-20,CUST_10303,Returning,ACC-CHR-OS,Accessories,Christmas Brooch,499,2,998,Dec20,20,Wallet,Website,Kanpur,Uttar Pradesh,Delhi,2025-01-10,Delivered,No,,,Not Applicable
+UT-100305,2024-12-20,CUST_10304,New,TOP-SNW-L,Tops,Snow White Top,2099,1,2099,,0,Debit Card,Mobile App,Mumbai,Maharashtra,Mumbai,2025-01-11,Delivered,Yes,Damaged in Transit,2025-02-07,Processed
+UT-100306,2024-12-21,CUST_10305,New,DRS-ICE-S,Dresses,Ice Queen Dress,3999,1,3999,,0,Credit Card,Instagram Shop,Delhi,Delhi,Delhi,2025-01-12,Delivered,Yes,Size Issue,2025-02-09,Processed
+UT-100307,2024-12-21,CUST_10306,New,BOT-FRZ-M,Bottoms,Frozen Pants,2399,1,2399,Dec20,20,UPI,Website,Kolkata,West Bengal,Delhi,2025-01-12,Delivered,No,,,Not Applicable
+UT-100308,2024-12-21,CUST_10307,New,OUT-WNT-L,Outerwear,Winter Wonderland Coat,7299,1,7299,,0,COD,Mobile App,Chennai,Tamil Nadu,Bangalore,2025-01-13,Delivered,Yes,Changed Mind,2025-02-10,Processed
+UT-100309,2024-12-21,CUST_10308,Returning,ACC-SNF-OS,Accessories,Snowflake Pendant,899,1,899,,0,Wallet,Instagram Shop,Hyderabad,Telangana,Bangalore,2025-01-12,Delivered,Yes,Quality Defect,2025-02-08,Processed
+UT-100310,2024-12-22,CUST_10309,New,TOP-XMS-M,Tops,Christmas Spirit Top,1999,1,1999,Dec20,20,Debit Card,Website,Pune,Maharashtra,Mumbai,2025-01-13,Delivered,No,,,Not Applicable
+UT-100311,2024-12-22,CUST_10310,New,DRS-NYR-L,Dresses,New Year Ready Dress,4699,1,4699,,0,Credit Card,Mobile App,Ahmedabad,Gujarat,Mumbai,2025-01-14,Delivered,Yes,Size Issue,2025-02-11,Processed
+UT-100312,2024-12-22,CUST_10311,New,BOT-HLD-S,Bottoms,Holiday Special Pants,2299,1,2299,,0,UPI,Instagram Shop,Jaipur,Rajasthan,Delhi,2025-01-14,Delivered,No,,,Not Applicable
+UT-100313,2024-12-22,CUST_10312,New,OUT-CEL-M,Outerwear,Celebrate Blazer,5399,1,5399,Dec20,20,COD,Website,Lucknow,Uttar Pradesh,Delhi,2025-01-15,Delivered,Yes,Wrong Item,2025-02-12,Processed
+UT-100314,2024-12-23,CUST_10313,Returning,ACC-WRM-OS,Accessories,Warm Wishes Scarf,1199,1,1199,,0,Wallet,Mobile App,Bangalore,Karnataka,Bangalore,2025-01-14,Delivered,No,,,Not Applicable
+UT-100315,2024-12-23,CUST_10314,New,TOP-FLK-L,Tops,Snowflake Top,2199,1,2199,,0,Debit Card,Instagram Shop,Mumbai,Maharashtra,Mumbai,2025-01-15,Delivered,Yes,Damaged in Transit,2025-02-11,Processed
+UT-100316,2024-12-23,CUST_10315,New,DRS-SPR-S,Dresses,Sparkle Season Dress,3799,1,3799,Dec20,20,Credit Card,Website,Delhi,Delhi,Delhi,2025-01-16,Delivered,Yes,Size Issue,2025-02-13,Processed
+UT-100317,2024-12-23,CUST_10316,New,BOT-CHR-M,Bottoms,Cheer Pants,2499,1,2499,,0,UPI,Mobile App,Chandigarh,Punjab,Delhi,2025-01-16,Delivered,No,,,Not Applicable
+UT-100318,2024-12-24,CUST_10317,New,OUT-XMS-L,Outerwear,Christmas Coat,6499,1,6499,,0,COD,Instagram Shop,Noida,Uttar Pradesh,Delhi,2025-01-17,Delivered,Yes,Changed Mind,2025-02-14,Processed
+UT-100319,2024-12-24,CUST_10318,Returning,ACC-BEL-OS,Accessories,Bell Earrings,499,3,1497,Dec20,20,Wallet,Website,Gurgaon,Haryana,Delhi,2025-01-16,Delivered,No,,,Not Applicable
+UT-100320,2024-12-24,CUST_10319,New,TOP-RDR-M,Tops,Reindeer Top,1799,1,1799,,0,Debit Card,Mobile App,Indore,Madhya Pradesh,Mumbai,2025-01-17,Delivered,Yes,Quality Defect,2025-02-13,Processed
+UT-100321,2024-12-24,CUST_10320,New,DRS-STR-L,Dresses,Star Bright Dress,4299,1,4299,,0,Credit Card,Instagram Shop,Surat,Gujarat,Mumbai,2025-01-18,Delivered,Yes,Size Issue,2025-02-15,Processed
+UT-100322,2024-12-25,CUST_10321,New,BOT-MRY-S,Bottoms,Merry Leggings,1899,1,1899,Dec20,20,UPI,Website,Patna,Bihar,Delhi,2025-01-18,Delivered,No,,,Not Applicable
+UT-100323,2024-12-25,CUST_10322,New,OUT-JOL-M,Outerwear,Jolly Jacket,4999,1,4999,,0,COD,Mobile App,Bhopal,Madhya Pradesh,Mumbai,2025-01-19,Delivered,Yes,Wrong Item,2025-02-16,Processed
+UT-100324,2024-12-25,CUST_10323,Returning,ACC-GFT-OS,Accessories,Gift Box Clutch,1399,1,1399,,0,Wallet,Instagram Shop,Nagpur,Maharashtra,Mumbai,2025-01-18,Delivered,No,,,Not Applicable
+UT-100325,2024-12-25,CUST_10324,New,TOP-HLY-L,Tops,Holly Top,2099,1,2099,Dec20,20,Debit Card,Website,Coimbatore,Tamil Nadu,Bangalore,2025-01-19,Delivered,Yes,Damaged in Transit,2025-02-15,Processed
+UT-100326,2024-12-26,CUST_10325,New,DRS-BOX-S,Dresses,Boxing Day Dress,2999,1,2999,,0,Credit Card,Mobile App,Kochi,Kerala,Bangalore,2025-01-20,Delivered,Yes,Size Issue,2025-02-17,Processed
+UT-100327,2024-12-26,CUST_10326,New,BOT-SLE-M,Bottoms,Sale Season Pants,2199,1,2199,,0,UPI,Instagram Shop,Vizag,Andhra Pradesh,Bangalore,2025-01-20,Delivered,No,,,Not Applicable
+UT-100328,2024-12-26,CUST_10327,New,OUT-SAL-L,Outerwear,Sale Special Coat,5999,1,5999,Dec20,20,COD,Website,Thiruvananthapuram,Kerala,Bangalore,2025-01-21,Delivered,Yes,Changed Mind,2025-02-18,Processed
+UT-100329,2024-12-26,CUST_10328,Returning,ACC-DIS-OS,Accessories,Discount Find Bag,1299,1,1299,,0,Wallet,Mobile App,Mysore,Karnataka,Bangalore,2025-01-20,Delivered,Yes,Quality Defect,2025-02-16,Processed
+UT-100330,2024-12-27,CUST_10329,New,TOP-CLR-M,Tops,Clearance Top,999,2,1998,,0,Debit Card,Instagram Shop,Vadodara,Gujarat,Mumbai,2025-01-21,Delivered,No,,,Not Applicable
+UT-100331,2024-12-27,CUST_10330,New,DRS-END-L,Dresses,Year End Dress,3499,1,3499,Dec20,20,Credit Card,Website,Rajkot,Gujarat,Mumbai,2025-01-22,Delivered,Yes,Size Issue,2025-02-19,Processed
+UT-100332,2024-12-27,CUST_10331,New,BOT-FNL-S,Bottoms,Final Sale Pants,1799,1,1799,,0,UPI,Mobile App,Kanpur,Uttar Pradesh,Delhi,2025-01-22,Delivered,No,,,Not Applicable
+UT-100333,2024-12-27,CUST_10332,New,OUT-LST-M,Outerwear,Last Chance Jacket,4599,1,4599,,0,COD,Instagram Shop,Mumbai,Maharashtra,Mumbai,2025-01-23,Delivered,Yes,Wrong Item,2025-02-20,Processed
+UT-100334,2024-12-28,CUST_10333,Returning,ACC-NWY-OS,Accessories,New Year Tiara,799,1,799,Dec20,20,Wallet,Website,Delhi,Delhi,Delhi,2025-01-22,Delivered,No,,,Not Applicable
+UT-100335,2024-12-28,CUST_10334,New,TOP-BYE-L,Tops,Goodbye 2024 Top,1899,1,1899,,0,Debit Card,Mobile App,Kolkata,West Bengal,Delhi,2025-01-23,Delivered,Yes,Damaged in Transit,2025-02-19,Processed
+UT-100336,2024-12-28,CUST_10335,New,DRS-WLC-S,Dresses,Welcome 2025 Dress,4099,1,4099,,0,Credit Card,Instagram Shop,Chennai,Tamil Nadu,Bangalore,2025-01-24,Delivered,Yes,Size Issue,2025-02-21,Processed
+UT-100337,2024-12-28,CUST_10336,New,BOT-RES-M,Bottoms,Resolution Pants,2299,1,2299,Dec20,20,UPI,Website,Hyderabad,Telangana,Bangalore,2025-01-24,Delivered,No,,,Not Applicable
+UT-100338,2024-12-29,CUST_10337,New,OUT-HOP-L,Outerwear,Hope Coat,5799,1,5799,,0,COD,Mobile App,Pune,Maharashtra,Mumbai,2025-01-25,Delivered,Yes,Changed Mind,2025-02-22,Processed
+UT-100339,2024-12-29,CUST_10338,Returning,ACC-DRM-OS,Accessories,Dream Catcher Earrings,699,2,1398,,0,Wallet,Instagram Shop,Ahmedabad,Gujarat,Mumbai,2025-01-24,Delivered,Yes,Quality Defect,2025-02-20,Processed
+UT-100340,2024-12-29,CUST_10340,New,TOP-WIS-M,Tops,Wishes Top,1999,1,1999,Dec20,20,Debit Card,Website,Jaipur,Rajasthan,Delhi,2025-01-25,Delivered,No,,,Not Applicable
+UT-100341,2024-12-29,CUST_10340,New,DRS-PRO-L,Dresses,Promise Dress,3899,1,3899,,0,Credit Card,Mobile App,Lucknow,Uttar Pradesh,Delhi,2025-01-26,Delivered,Yes,Size Issue,2025-02-23,Processed
+UT-100342,2024-12-30,CUST_10341,New,BOT-NEW-S,Bottoms,New Beginning Pants,2099,1,2099,,0,UPI,Instagram Shop,Bangalore,Karnataka,Bangalore,2025-01-26,Delivered,No,,,Not Applicable
+UT-100343,2024-12-30,CUST_10342,New,OUT-FRE-M,Outerwear,Fresh Start Jacket,4899,1,4899,Dec20,20,COD,Website,Mumbai,Maharashtra,Mumbai,2025-01-27,Delivered,Yes,Wrong Item,2025-02-24,Processed
+UT-100344,2024-12-30,CUST_10343,Returning,ACC-LCK-OS,Accessories,Lucky Charm Bracelet,599,3,1797,,0,Wallet,Mobile App,Delhi,Delhi,Delhi,2025-01-26,Delivered,No,,,Not Applicable
+UT-100345,2024-12-30,CUST_10344,New,TOP-BEG-L,Tops,Begin Again Top,2199,1,2199,,0,Debit Card,Instagram Shop,Chandigarh,Punjab,Delhi,2025-01-27,Delivered,Yes,Damaged in Transit,2025-02-23,Processed
+UT-100346,2024-12-31,CUST_10345,New,DRS-CNT-S,Dresses,Countdown Dress,4499,1,4499,Dec20,20,Credit Card,Website,Noida,Uttar Pradesh,Delhi,2025-01-28,Delivered,Yes,Size Issue,2025-02-25,Processed
